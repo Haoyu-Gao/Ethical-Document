@@ -1,6 +1,6 @@
 # Ethical-Document
 
-This is the replication package for "Documenting Ethical Considerations in Open Source AI Models", accepted by ESEM'24.
+This is the replication package for "Documenting Ethical Considerations in Open Source AI Models", accepted by 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM'24).
 
 ## Folder Walkthrough
 - `qualitative codes` contains our thematic analysis codes for documents from three data sources.
